@@ -1,262 +1,46 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>待办事项</title>
+    <url>/2022/11/29/%E4%BB%A3%E5%8A%9E%E4%BA%8B%E9%A1%B9/</url>
+    <content><![CDATA[<p>2022-11-29</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//为网站添加浏览量功能    √</span></span><br><span class="line"><span class="comment">//把博客园的日记搬运一下</span></span><br><span class="line"><span class="comment">//添加搜索功能</span></span><br></pre></td></tr></table></figure>
 
-<head>
-  <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width">
-<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 6.3.0">
+]]></content>
+  </entry>
+  <entry>
+    <title>40天考研日记</title>
+    <url>/2022/11/14/40%E5%A4%A9%E8%80%83%E7%A0%94%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[<p>今天找到一位英语老师，看似口碑不错，一会就去看看怎么样，提升自己的短板</p>
+<p>博客 我们尽量每天都去写一点自己的体会</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>我的日记</title>
+    <url>/2022/11/19/%E6%88%91%E7%9A%84%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line"></span><br><span class="line">hexo g</span><br><span class="line">hexo d  #发布</span><br><span class="line">    </span><br><span class="line">hexo  s  本地查看</span><br></pre></td></tr></table></figure>
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
-  <link rel="mask-icon" href="/images/logo.svg" color="#222">
-
-<link rel="stylesheet" href="/css/main.css">
-
-
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha256-AbA177XfpSnFEvgpYu1jMygiLabzPCJCRIBtR5jGc0k=" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
-
-<script class="next-config" data-name="main" type="application/json">{"hostname":"pierhai.github.io","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.13.2","exturl":false,"sidebar":{"position":"left","display":"always","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
-
-    <meta name="description" content="34.马克思主义基本原理分析一、马克思主义认识论1)如何理解“中国共产党为什么能，中国特色社会主义为什么好，归根到底是马克思 主义行，是中国化时代化的马克思主行。”如何理解“脚踏实地把科技论文写在祖国大 地上”，“把论文写在大地上，真正来地里面写，那才叫真本事。”(1)实践是人类能动地改造世界的客观物质性活动。认识是主体在实践基础上对客体 的能动反映。实践决定认识:实践是认识的来源;实践是认识发展">
-<meta property="og:type" content="article">
-<meta property="og:title" content="政治">
-<meta property="og:url" content="http://pierhai.github.io/2022/11/14/%E6%94%BF%E6%B2%BB/index.html">
-<meta property="og:site_name" content="平平无奇">
-<meta property="og:description" content="34.马克思主义基本原理分析一、马克思主义认识论1)如何理解“中国共产党为什么能，中国特色社会主义为什么好，归根到底是马克思 主义行，是中国化时代化的马克思主行。”如何理解“脚踏实地把科技论文写在祖国大 地上”，“把论文写在大地上，真正来地里面写，那才叫真本事。”(1)实践是人类能动地改造世界的客观物质性活动。认识是主体在实践基础上对客体 的能动反映。实践决定认识:实践是认识的来源;实践是认识发展">
-<meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2022-11-14T13:34:25.000Z">
-<meta property="article:modified_time" content="2022-12-12T09:15:29.560Z">
-<meta property="article:author" content="yuyu">
-<meta name="twitter:card" content="summary">
-
-
-<link rel="canonical" href="http://pierhai.github.io/2022/11/14/%E6%94%BF%E6%B2%BB/">
-
-
-
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"http://pierhai.github.io/2022/11/14/%E6%94%BF%E6%B2%BB/","path":"2022/11/14/政治/","title":"政治"}</script>
-
-<script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>政治 | 平平无奇</title>
-  
-
-
-
-
-
-
-  <script async defer data-website-id="" src=""></script>
-
-  <script defer data-domain="" src=""></script>
-
-  <noscript>
-    <link rel="stylesheet" href="/css/noscript.css">
-  </noscript>
-</head>
-
-<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
-  <div class="headband"></div>
-
-  <main class="main">
-    <div class="column">
-      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
-  <div class="site-nav-toggle">
-    <div class="toggle" aria-label="切换导航栏" role="button">
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-        <span class="toggle-line"></span>
-    </div>
-  </div>
-
-  <div class="site-meta">
-
-    <a href="/" class="brand" rel="start">
-      <i class="logo-line"></i>
-      <p class="site-title">平平无奇</p>
-      <i class="logo-line"></i>
-    </a>
-      <p class="site-subtitle" itemprop="description">心有猛虎，细嗅蔷薇</p>
-  </div>
-
-  <div class="site-nav-right">
-    <div class="toggle popup-trigger">
-        <i class="fa fa-search fa-fw fa-lg"></i>
-    </div>
-  </div>
-</div>
-
-
-
-<nav class="site-nav">
-  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
-      <li class="menu-item menu-item-search">
-        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
-        </a>
-      </li>
-  </ul>
-</nav>
-
-
-
-  <div class="search-pop-overlay">
-    <div class="popup search-popup"><div class="search-header">
-  <span class="search-icon">
-    <i class="fa fa-search"></i>
-  </span>
-  <div class="search-input-container">
-    <input autocomplete="off" autocapitalize="off" maxlength="80"
-           placeholder="搜索..." spellcheck="false"
-           type="search" class="search-input">
-  </div>
-  <span class="popup-btn-close" role="button">
-    <i class="fa fa-times-circle"></i>
-  </span>
-</div>
-<div class="search-result-container no-result">
-  <div class="search-result-icon">
-    <i class="fa fa-spinner fa-pulse fa-5x"></i>
-  </div>
-</div>
-
-    </div>
-  </div>
-
-</header>
-        
-  
-  <aside class="sidebar">
-
-    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
-      <ul class="sidebar-nav">
-        <li class="sidebar-nav-toc">
-          文章目录
-        </li>
-        <li class="sidebar-nav-overview">
-          站点概览
-        </li>
-      </ul>
-
-      <div class="sidebar-panel-container">
-        <!--noindex-->
-        <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#34-%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86"><span class="nav-number">1.</span> <span class="nav-text">34.马克思主义基本原理</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%88%86%E6%9E%90%E4%B8%80%E3%80%81%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E8%AE%A4%E8%AF%86%E8%AE%BA"><span class="nav-number">1.1.</span> <span class="nav-text">分析一、马克思主义认识论</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%EF%BC%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%EF%BC%8C%E5%BD%92%E6%A0%B9%E5%88%B0%E5%BA%95%E6%98%AF%E9%A9%AC%E5%85%8B%E6%80%9D-%E4%B8%BB%E4%B9%89%E8%A1%8C%EF%BC%8C%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%8C%96%E6%97%B6%E4%BB%A3%E5%8C%96%E7%9A%84%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E8%A1%8C%E3%80%82%E2%80%9D%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E2%80%9C%E8%84%9A%E8%B8%8F%E5%AE%9E%E5%9C%B0%E6%8A%8A%E7%A7%91%E6%8A%80%E8%AE%BA%E6%96%87%E5%86%99%E5%9C%A8%E7%A5%96%E5%9B%BD%E5%A4%A7-%E5%9C%B0%E4%B8%8A%E2%80%9D%EF%BC%8C%E2%80%9C%E6%8A%8A%E8%AE%BA%E6%96%87%E5%86%99%E5%9C%A8%E5%A4%A7%E5%9C%B0%E4%B8%8A%EF%BC%8C%E7%9C%9F%E6%AD%A3%E6%9D%A5%E5%9C%B0%E9%87%8C%E9%9D%A2%E5%86%99%EF%BC%8C%E9%82%A3%E6%89%8D%E5%8F%AB%E7%9C%9F%E6%9C%AC%E4%BA%8B%E3%80%82%E2%80%9D"><span class="nav-number">1.1.1.</span> <span class="nav-text">1)如何理解“中国共产党为什么能，中国特色社会主义为什么好，归根到底是马克思 主义行，是中国化时代化的马克思主行。”如何理解“脚踏实地把科技论文写在祖国大 地上”，“把论文写在大地上，真正来地里面写，那才叫真本事。”</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E2%80%9C%E5%BC%80%E8%BE%9F%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E4%B8%AD%E5%9B%BD%E5%8C%96%E6%97%B6%E4%BB%A3%E5%8C%96%E6%96%B0%E5%A2%83%E7%95%8C%E2%80%9D-%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E2%80%9C%E8%A6%81%E4%BB%A5%E7%A7%91%E5%AD%A6%E7%9A%84%E6%80%81%E5%BA%A6%E5%AF%B9-%E5%BE%85%E7%A7%91%E5%AD%A6%E3%80%81%E4%BB%A5%E7%9C%9F%E7%90%86%E7%9A%84%E7%B2%BE%E7%A5%9E%E8%BF%BD%E6%B1%82%E7%9C%9F%E7%90%86%E2%80%9D%E3%80%82"><span class="nav-number">1.1.2.</span> <span class="nav-text">2.为什么要“开辟马克思主义中国化时代化新境界”?如何理解“要以科学的态度对 待科学、以真理的精神追求真理”。</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-%E7%94%A8%E7%9C%9F%E7%90%86%E5%B0%BA%E5%BA%A6%E4%B8%8E%E4%BB%B7%E5%80%BC%E5%B0%BA%E5%BA%A6%E7%9A%84%E8%BE%A9%E8%AF%81%E7%BB%9F%E4%B8%80%E5%85%B3%E7%B3%BB%E8%AF%B4%E6%98%8E%E2%80%9C%E9%9D%92%E8%92%BF%E7%B4%A0%E6%98%AF%E4%BA%BA%E7%B1%BB%E5%BE%81%E6%9C%8D%E7%96%9F%E7%96%BE%E8%BF%9B%E7%A8%8B%E4%B8%AD%E7%9A%84%E4%B8%80%E5%B0%8F-%E6%AD%A5%EF%BC%8C%E4%B9%9F%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E5%8C%BB%E8%8D%AF%E7%8C%AE%E7%BB%99%E4%BA%BA%E7%B1%BB%E7%9A%84%E4%B8%80%E4%BB%BD%E7%A4%BC%E7%89%A9%E2%80%9D-%E8%A2%81%E9%9A%86%E5%B9%B3%E5%88%9B%E5%BB%BA%E4%BA%86%E8%B6%85%E7%BA%A7%E6%9D%82%E4%BA%A4%E7%A8%BB%E6%8A%80%E6%9C%AF%E4%BD%93%E7%B3%BB%EF%BC%8C%E4%B8%BA%E4%B8%AD%E5%9B%BD-%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E3%80%81%E5%86%9C%E4%B8%9A%E7%A7%91%E5%AD%A6%E5%8F%91%E5%B1%95%E5%92%8C%E4%B8%96%E7%95%8C%E7%B2%AE%E9%A3%9F%E4%BE%9B%E7%BB%99%E4%BD%9C%E5%87%BA%E6%9D%B0%E5%87%BA%E8%B4%A1%E7%8C%AE-%E3%80%82"><span class="nav-number">1.1.3.</span> <span class="nav-text">3.用真理尺度与价值尺度的辩证统一关系说明“青蒿素是人类征服疟疾进程中的一小 步，也是中国传统医药献给人类的一份礼物”(袁隆平创建了超级杂交稻技术体系，为中国 粮食安全、农业科学发展和世界粮食供给作出杰出贡献)。</span></a></li></ol></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#35%EF%BC%8C%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96"><span class="nav-number">2.</span> <span class="nav-text">35，高质量发展与中国式现代化</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BE%8B%E4%B8%80"><span class="nav-number">2.1.</span> <span class="nav-text">例一</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E2%80%9C%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E6%98%AF%E5%85%A8%E9%9D%A2%E5%BB%BA%E8%AE%BE%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%9B%BD%E5%AE%B6%E7%9A%84%E9%A6%96%E8%A6%81%E4%BB%BB%E5%8A%A1%E2%80%9D-%EF%BC%9F"><span class="nav-number">2.1.1.</span> <span class="nav-text">1)如何理解“高质量发展是全面建设社会主义现代化国家的首要任务” ？</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2%EF%BC%89%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E4%B8%BA%E4%BA%BA%E7%B1%BB%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%8F%90%E4%BE%9B%E4%BA%86%E6%96%B0%E7%9A%84%E9%80%89%E6%8B%A9%E2%80%9D-or-%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E4%B8%BA%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E4%BA%86%E5%85%A8%E6%96%B0%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%A8%A1%E5%BC%8F"><span class="nav-number">2.1.2.</span> <span class="nav-text">2）为什么说“中国式现代化为人类现代化提供了新的选择”   or 中国式现代化为世界提供了全新的现代化模式</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BE%8B%E4%BA%8C"><span class="nav-number">2.2.</span> <span class="nav-text">例二</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#36-%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%E4%B8%8E%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3"><span class="nav-number">3.</span> <span class="nav-text">36.中国近现代史纲要与毛泽东思想</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%88%86%E6%9E%90%E4%B8%80%E3%80%81%E4%B8%AD%E5%9B%BD%E9%9D%A9%E5%91%BD%E5%9C%A3%E5%9C%B0%E5%BB%B6%E5%AE%89%E4%B8%8E%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%9A%84%E2%80%9C%E6%88%90%E5%8A%9F%E5%AF%86%E7%A0%81%E2%80%9D"><span class="nav-number">3.1.</span> <span class="nav-text">分析一、中国革命圣地延安与新时代中国的“成功密码”</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E2%80%9C%E5%BB%B6%E5%AE%89%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%9D%A9%E5%91%BD%E7%9A%84%E5%9C%A3%E5%9C%B0%E3%80%81%E6%96%B0%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%91%87%E7%AF%AE%E2%80%9D-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E5%BB%B6%E5%AE%89%E9%9D%A9%E5%91%BD%E6%97%A7%E5%9D%80%E2%80%9C%E6%98%AF-%E4%B8%80%E6%9C%AC%E6%B0%B8%E8%BF%9C%E8%AF%BB%E4%B8%8D%E5%AE%8C%E7%9A%84%E4%B9%A6%E2%80%9D-%E4%B8%BA%E4%BB%80%E4%B9%88%E2%80%9C%E5%BB%B6%E5%AE%89%E4%BD%9C%E9%A3%8E%E2%80%9D%E6%89%93%E8%B4%A5%E4%BA%86%E2%80%9C%E8%A5%BF%E5%AE%89%E4%BD%9C%E9%A3%8E%E2%80%9D"><span class="nav-number">3.1.1.</span> <span class="nav-text">1.如何理解“延安是中国革命的圣地、新中国的摇篮”?为什么说延安革命旧址“是 一本永远读不完的书”?为什么“延安作风”打败了“西安作风”?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%99%E5%87%BA%E7%A0%B4%E9%A2%98%E4%B9%8B%E9%92%A5%EF%BC%8C%E6%B7%B1%E5%88%BB%E6%A0%87%E6%B3%A8%E7%9A%84%E2%80%9C%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%A4%9F%E6%88%90%E5%8A%9F%E2%80%9D%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E7%BB%A7%E7%BB%AD%E6%88%90-%E5%8A%9F%E2%80%9D%E7%9A%84%E5%8E%86%E5%8F%B2%E8%B7%AF%E6%A0%87%E6%98%AF%E4%BB%80%E4%B9%88-%E5%A6%82%E4%BD%95%E5%BC%95%E9%A2%86%E5%92%8C%E4%BF%9D%E9%9A%9C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%B7%8D%E5%B7%8D%E5%B7%A8%E8%BD%AE%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E3%80%81%E8%A1%8C%E7%A8%B3%E8%87%B4-%E8%BF%9C"><span class="nav-number">3.1.2.</span> <span class="nav-text">2.习近平给出破题之钥，深刻标注的“中国为什么能够成功”“中国怎样才能继续成 功”的历史路标是什么? 如何引领和保障中国特色社会主义巍巍巨轮乘风破浪、行稳致 远?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%E3%80%81%E4%BC%A0%E6%89%BF%E5%A5%8B%E6%96%97%E7%B2%BE%E7%A5%9E%EF%BC%8C%E5%9C%A8%E6%96%B0%E7%9A%84%E8%B5%B6%E8%80%83%E4%B9%8B%E8%B7%AF%E4%B8%8A%E5%90%91%E5%8E%86%E5%8F%B2%E5%92%8C%E4%BA%BA%E6%B0%91%E4%BA%A4%E5%87%BA%E6%96%B0%E7%9A%84-%E4%BC%98%E5%BC%82%E7%AD%94%E5%8D%B7%E7%9A%84%E5%9D%9A%E5%AE%9A%E4%BF%A1%E5%BF%B5-%E6%88%96%E5%A6%82%E4%BD%95%E4%BD%BF%E5%BB%B6%E5%AE%89%E7%B2%BE%E7%A5%9E%E4%BB%A3%E4%BB%A3%E4%BC%A0%E6%89%BF%E4%B8%8B%E5%8E%BB%EF%BC%8C%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%85%A8%E9%9D%A2%E6%8E%A8%E8%BF%9B%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E4%BC%9F%E5%A4%A7%E5%A4%8D%E5%85%B4%E7%9A%84%E5%AE%8F%E4%BC%9F%E8%93%9D%E5%9B%BE-%E5%A6%82%E4%BD%95%E6%8A%8A%E2%80%9C%E5%BB%B6%E5%AE%89%E7%B2%BE%E7%A5%9E%E8%A6%81%E4%BB%A3%E4%BB%A3%E4%BC%A0%E6%89%BF%E4%B8%8B%E5%8E%BB%E2%80%9D"><span class="nav-number">3.1.3.</span> <span class="nav-text">3.如何理解赓续红色血脉、传承奋斗精神，在新的赶考之路上向历史和人民交出新的 优异答卷的坚定信念?或如何使延安精神代代传承下去，以中国式现代化全面推进中华民族伟大复兴的宏伟蓝图?如何把“延安精神要代代传承下去”?</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%88%86%E6%9E%90%E4%BA%8C%E3%80%81%E5%8E%86%E5%8F%B2%E5%91%A8%E6%9C%9F%E5%BE%8B%E3%80%81%E6%96%B0%E6%97%B6%E4%BB%A3%E5%8D%81%E5%B9%B4%E4%B8%8E%E2%80%9C%E4%B8%A4%E4%B8%AA%E7%A1%AE%E7%AB%8B%E2%80%9D"><span class="nav-number">3.2.</span> <span class="nav-text">分析二、历史周期律、新时代十年与“两个确立”</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%9B%E6%B3%BD%E4%B8%9C%E8%AF%B4-%E2%80%9C%E6%88%91%E4%BB%AC%E5%B7%B2%E7%BB%8F%E6%89%BE%E5%88%B0%E6%96%B0%E8%B7%AF%EF%BC%8C%E6%88%91%E4%BB%AC%E8%83%BD%E8%B7%B3%E5%87%BA%E8%BF%99%E5%91%A8%E6%9C%9F%E7%8E%87%E2%80%9D"><span class="nav-number">3.2.1.</span> <span class="nav-text">1.为什么毛泽东说:“我们已经找到新路，我们能跳出这周期率”?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%89%80%E8%AF%B4%E7%9A%84%E2%80%9C%E5%85%9A%E6%89%BE%E5%88%B0%E4%BA%86%E8%B7%B3%E5%87%BA%E6%B2%BB%E4%B9%B1%E5%85%B4%E8%A1%B0%E5%8E%86%E5%8F%B2%E5%91%A8%E6%9C%9F%E7%8E%87%E7%9A%84%E7%AC%AC%E4%BA%8C%E4%B8%AA%E7%AD%94%E6%A1%88%E2%80%9D-%E6%88%96%E5%A6%82-%E4%BD%95%E7%90%86%E8%A7%A3%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%89%80%E8%AF%B4%E7%9A%84%E2%80%9C%E5%85%9A%E6%89%BE%E5%88%B0%E4%BA%86%E8%B7%B3%E5%87%BA%E6%B2%BB%E4%B9%B1%E5%85%B4%E8%A1%B0%E5%8E%86%E5%8F%B2%E5%91%A8%E6%9C%9F%E7%8E%87%E7%9A%84%E7%AD%94%E6%A1%88%E2%80%9D"><span class="nav-number">3.2.2.</span> <span class="nav-text">2.如何理解习近平所说的“党找到了跳出治乱兴衰历史周期率的第二个答案”?或如 何理解习近平所说的“党找到了跳出治乱兴衰历史周期率的答案”?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E2%80%9C%E6%96%B0%E6%97%B6%E4%BB%A3%E5%8D%81%E5%B9%B4%E7%9A%84%E4%BC%9F%E5%A4%A7%E5%8F%98%E9%9D%A9%E5%85%B7%E6%9C%89%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91%E6%84%8F%E4%B9%89%E2%80%9D"><span class="nav-number">3.2.3.</span> <span class="nav-text">3.如何理解“新时代十年的伟大变革具有的里程碑意义”?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E2%80%9C%E4%B8%A4%E4%B8%AA%E7%A1%AE%E7%AB%8B%E2%80%9D%E5%AF%B9%E6%96%B0%E6%97%B6%E4%BB%A3%E5%85%9A%E5%92%8C%E5%9B%BD%E5%AE%B6%E4%BA%8B%E4%B8%9A%E5%8F%91%E5%B1%95%E5%85%B7%E6%9C%89%E5%86%B3%E5%AE%9A%E6%80%A7%E6%84%8F%E4%B9%89-%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E2%80%9C%E4%B8%A4-%E4%B8%AA%E7%A1%AE%E7%AB%8B%E2%80%9D%E5%AF%B9%E6%8E%A8%E5%8A%A8%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E4%BC%9F%E5%A4%A7%E5%A4%8D%E5%85%B4%E5%8E%86%E5%8F%B2%E8%BF%9B%E7%A8%8B%E5%85%B7%E6%9C%89%E5%86%B3%E5%AE%9A%E6%80%A7%E6%84%8F%E4%B9%89"><span class="nav-number">3.2.4.</span> <span class="nav-text">4.如何理解“两个确立”对新时代党和国家事业发展具有决定性意义?如何理解“两 个确立”对推动中华民族伟大复兴历史进程具有决定性意义?</span></a></li></ol></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#37%E7%BB%A7%E6%89%BF%E4%BC%98%E8%89%AF%E4%BC%A0%E7%BB%9F%EF%BC%8C%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%EF%BC%8C%E4%BC%A0%E6%89%BF%E5%BB%B6%E5%AE%89%E7%B2%BE%E7%A5%9E%EF%BC%8C%E8%A6%81%E5%9C%A8%E6%96%B0%E7%9A%84%E8%B5%B6%E8%80%83%E4%B9%8B%E8%B7%AF%E4%B8%8A%E4%BA%A4%E5%87%BA-%E6%96%B0%E7%9A%84%E4%BC%98%E5%BC%82%E7%AD%94%E5%8D%B7"><span class="nav-number">4.</span> <span class="nav-text">37继承优良传统，赓续红色血脉，传承延安精神，要在新的赶考之路上交出 新的优异答卷</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BE%8B%E4%B8%80-1"><span class="nav-number">4.1.</span> <span class="nav-text">例一</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-%E6%96%B0%E6%97%B6%E4%BB%A3%E9%9D%92%E5%B9%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%BB%A7%E6%89%BF%E4%BC%98%E8%89%AF%E4%BC%A0%E7%BB%9F%EF%BC%8C%E5%BA%B7%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89-%E6%96%B0%E6%97%B6%E4%BB%A3%E9%9D%92%E5%B9%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E4%BC%A0%E6%89%BF%E7%BA%A2%E8%89%B2-%E5%9F%BA%E5%9B%A0%EF%BC%8C%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89-%E6%96%B0%E6%97%B6%E4%BB%A3%E9%9D%92%E5%B9%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%B5%93%E7%BB%AD%E5%85%9A%E7%9A%84%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%EF%BC%8C%E5%BC%98%E6%89%AC%E5%85%9A%E7%9A%84%E4%BC%98%E8%89%AF%E4%BC%A0%E7%BB%9F"><span class="nav-number">4.1.1.</span> <span class="nav-text">1.新时代青年为什么要继承优良传统，康续红色血脉?新时代青年为什么要传承红色 基因，赓续红色血脉?新时代青年为什么要赓续党的红色血脉，弘扬党的优良传统?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-%E6%96%B0%E6%97%B6%E4%BB%A3%E9%9D%92%E5%B9%B4%E6%80%8E%E6%A0%B7%E2%80%9C%E6%8A%8A%E7%BA%A2%E8%89%B2%E5%9F%BA%E5%9B%A0%E4%BC%A0%E6%89%BF%E4%B8%8B%E5%8E%BB%EF%BC%8C%E7%A1%AE%E4%BF%9D%E7%BA%A2%E8%89%B2%E6%B1%9F%E5%B1%B1%E5%90%8E%E7%BB%A7%E6%9C%89%E4%BA%BA%E3%80%81%E4%BB%A3%E4%BB%A3%E7%9B%B8%E4%BC%A0%E2%80%9D-%E6%96%B0-%E6%97%B6%E4%BB%A3%E9%9D%92%E5%B9%B4%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%8D%E6%96%AD%E5%A2%9E%E5%BC%BA%E5%81%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%BF%97%E6%B0%94%E3%80%81%E9%AA%A8%E6%B0%94%E3%80%81%E5%BA%95%E6%B0%94%EF%BC%8C%E8%AE%A9%E9%9D%A9%E5%91%BD%E8%96%AA%E7%81%AB%E4%BB%A3%E4%BB%A3%E7%9B%B8%E4%BC%A0-%E6%96%B0%E6%97%B6%E4%BB%A3%E9%9D%92-%E5%B9%B4%E5%BA%94%E8%AF%A5%E5%A6%82%E4%BD%95%E8%AE%A9%E4%BC%A0%E6%89%BF%E7%BA%A2%E8%89%B2%E5%9F%BA%E5%9B%A0%E6%89%8E%E6%A0%B9%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%9C%B0"><span class="nav-number">4.1.2.</span> <span class="nav-text">2.新时代青年怎样“把红色基因传承下去，确保红色江山后继有人、代代相传”?新 时代青年如何在不断增强做中国人的志气、骨气、底气，让革命薪火代代相传?新时代青 年应该如何让传承红色基因扎根中国大地?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E8%B5%93%E7%BB%AD%E7%BA%A2%E8%89%B2%E8%A1%80%E8%84%89%E3%80%81%E4%BC%A0%E6%89%BF%E5%A5%8B%E6%96%97%E7%B2%BE%E7%A5%9E%EF%BC%8C%E5%9C%A8%E6%96%B0%E7%9A%84%E8%B5%B6%E8%80%83%E4%B9%8B%E8%B7%AF%E4%B8%8A%E5%90%91%E5%8E%86%E5%8F%B2%E5%92%8C%E4%BA%BA%E6%B0%91%E4%BA%A4%E5%87%BA%E6%96%B0%E7%9A%84-%E4%BC%98%E5%BC%82%E7%AD%94%E5%8D%B7%E7%9A%84%E5%9D%9A%E5%AE%9A%E4%BF%A1%E5%BF%B5-%E6%88%96%E5%A6%82%E4%BD%95%E4%BD%BF%E5%BB%B6%E5%AE%89%E7%B2%BE%E7%A5%9E%E4%BB%A3%E4%BB%A3%E4%BC%A0%E6%89%BF%E4%B8%8B%E5%8E%BB%EF%BC%8C%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%85%A8%E9%9D%A2%E6%8E%A8%E8%BF%9B%E4%B8%AD%E5%8D%8E%E6%B0%91-%E6%97%8F%E4%BC%9F%E5%A4%A7%E5%A4%8D%E5%85%B4%E7%9A%84%E5%AE%8F%E4%BC%9F%E8%93%9D%E5%9B%BE"><span class="nav-number">4.1.3.</span> <span class="nav-text">3.如何理解赓续红色血脉、传承奋斗精神，在新的赶考之路上向历史和人民交出新的 优异答卷的坚定信念?或如何使延安精神代代传承下去，以中国式现代化全面推进中华民 族伟大复兴的宏伟蓝图?</span></a></li></ol></li></ol></li></ol></div>
-        </div>
-        <!--/noindex-->
-
-        <div class="site-overview-wrap sidebar-panel">
-          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <img class="site-author-image" itemprop="image" alt="yuyu"
-      src="/images/head2.jpg">
-  <p class="site-author-name" itemprop="name">yuyu</p>
-  <div class="site-description" itemprop="description"></div>
-</div>
-<div class="site-state-wrap site-overview-item animated">
-  <nav class="site-state">
-      <div class="site-state-item site-state-posts">
-        <a href="/archives/">
-          <span class="site-state-item-count">6</span>
-          <span class="site-state-item-name">日志</span>
-        </a>
-      </div>
-      <div class="site-state-item site-state-tags">
-        <span class="site-state-item-count">1</span>
-        <span class="site-state-item-name">标签</span>
-      </div>
-  </nav>
-</div>
-  <div class="cc-license site-overview-item animated" itemprop="license">
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="cc-opacity" rel="noopener" target="_blank"><img src="https://cdnjs.cloudflare.com/ajax/libs/creativecommons-vocabulary/2020.11.3/assets/license_badges/undefined/by_nc_sa.svg" alt="Creative Commons"></a>
-  </div>
-
-
-
-        </div>
-      </div>
-    </div>
-  </aside>
-
-
-    </div>
-
-    <div class="main-inner post posts-expand">
-
-
-  
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://pierhai.github.io/2022/11/14/%E6%94%BF%E6%B2%BB/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/head2.jpg">
-      <meta itemprop="name" content="yuyu">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="平平无奇">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="政治 | 平平无奇">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">
-          政治
-        </h1>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2022-11-14 21:34:25" itemprop="dateCreated datePublished" datetime="2022-11-14T21:34:25+08:00">2022-11-14</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2022-12-12 17:15:29" itemprop="dateModified" datetime="2022-12-12T17:15:29+08:00">2022-12-12</time>
-    </span>
-
-  
-    <span class="post-meta-break"></span>
-    <span class="post-meta-item" title="本文字数">
-      <span class="post-meta-item-icon">
-        <i class="far fa-file-word"></i>
-      </span>
-      <span class="post-meta-item-text">本文字数：</span>
-      <span>11k</span>
-    </span>
-    <span class="post-meta-item" title="阅读时长">
-      <span class="post-meta-item-icon">
-        <i class="far fa-clock"></i>
-      </span>
-      <span class="post-meta-item-text">阅读时长 &asymp;</span>
-      <span>10 分钟</span>
-    </span>
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-        <h1 id="34-马克思主义基本原理"><a href="#34-马克思主义基本原理" class="headerlink" title="34.马克思主义基本原理"></a>34.马克思主义基本原理</h1><h2 id="分析一、马克思主义认识论"><a href="#分析一、马克思主义认识论" class="headerlink" title="分析一、马克思主义认识论"></a>分析一、马克思主义认识论</h2><h3 id="1-如何理解“中国共产党为什么能，中国特色社会主义为什么好，归根到底是马克思-主义行，是中国化时代化的马克思主行。”如何理解“脚踏实地把科技论文写在祖国大-地上”，“把论文写在大地上，真正来地里面写，那才叫真本事。”"><a href="#1-如何理解“中国共产党为什么能，中国特色社会主义为什么好，归根到底是马克思-主义行，是中国化时代化的马克思主行。”如何理解“脚踏实地把科技论文写在祖国大-地上”，“把论文写在大地上，真正来地里面写，那才叫真本事。”" class="headerlink" title="1)如何理解“中国共产党为什么能，中国特色社会主义为什么好，归根到底是马克思 主义行，是中国化时代化的马克思主行。”如何理解“脚踏实地把科技论文写在祖国大 地上”，“把论文写在大地上，真正来地里面写，那才叫真本事。”"></a>1)如何理解“中国共产党为什么能，中国特色社会主义为什么好，归根到底是马克思 主义行，是中国化时代化的马克思主行。”如何理解“脚踏实地把科技论文写在祖国大 地上”，“把论文写在大地上，真正来地里面写，那才叫真本事。”</h3><p>(1)实践是人类能动地改造世界的客观物质性活动。认识是主体在实践基础上对客体 的能动反映。实践决定认识:实践是认识的来源;实践是认识发展的动力;实践是认识的 目的;实践是检验认识真理性的唯一标准。认识对实践具有指导作用。实践与认识的辩证 运动，是一个由感性认识到理性认识，又由理性认识到实践的飞跃，是实践、认识、再实 践、再认识，循环往复以至无穷的辩证发展过程。认识的发展过程，首先是由实践到认识， 这是认识过程中的第一次飞跃。实现认识运动的第一次飞跃，首先要投身实践，深入调查， 获取十分丰富和合乎实际的感性材料。<br>(2)马克思主义、中国化时代化的马克思主义是从实践中来、到实践中去、在实践中 接受检验，并随实践而不断发展的学说。当代中国马克思主义、21 世纪马克思主义源于实 践又指导实践，是中国特色社会主义理论创新与实践创新良性互动的智慧结晶，为新时代坚 持和发展中国特色社会主义、推进党和国家事业提供了基本遵循和行动指南。<br>(3)论文是意识现象，是实践中获得的认识，是从感性认识上升到理性认识的第一次 飞跃。写好论文，必须从实际出发，深入实践，获取感性材料，并运用理论思维和科学抽 象，将感性材料改造制作，才能做到实事求是，获得真理。感性认识有待于发展和深化为 理性认识。感性认识还不能达到对事物的本质和规律的认识，因而还不是完全的认识。<br>用社会存在与社会意识的辩证关系原理作答，言之合理也可得分。</p>
+<p>2022&#x2F;12&#x2F;12</p>
+<p>感觉内心的空虚，渴望用游戏来麻痹自己。我们分明不在意游戏人物的得与失，只是想要加入一个群体去融入，剖析自己的内心，或许敏<font color='orange'>感的你只想要一点关注度？？考研，不意味着人生的终点，只有有效的思考才能拯救我们软弱的那个小男孩，开始放弃无聊的幻想。</font>我们从来就只有一个人，但是正是如此，我希望你保持努力探究的样子。更近一步可以让我真正的，更好的满足内心 的无知和欲望。</p>
+<p>2022年11月19日</p>
+<p>对于我这种没有把考研放到眼中的人，能否在考试中脱颖而出呢？？<br>我要如何才能让自己开心呢？？总之评判自我  很难， 也很容易让我进步。</p>
+<p><escape><span id="more"></span></escape></p>
+<p>发表于 2020-05-07 23:01<br>你有没有想过，性交对女人的危害，她可能因此被伤害一生，我们总是在伤害别人，一味的去享受得利，<br>对另一个人来说，是否是个好事情呢，高中入飞蛾扑火，并没有历历在目。<br>你的人生会不会每次都这样默默的结束呢。</p>
+<p>2020-05-06 21:4<br>爱是一切的前提，诱惑只不过是我们占有欲的一种体现，就连 性爱 都不过是爱的更深的一种提现，<br>现代人都忽视了这种关系，他们随意乱搞，都是追求自己的舒适，我要想大人物学习，<br>要追求人人幸福，我必须变强，这一次我破戒了，以此记录，希望下一次的你永远不要出现。<br>我想说：并不是通过自己努力，废了一番辛苦得到的东西，我们总是很难学会去珍惜。</p>
+<p>发表于 02-11 23:02<br>执着于一些错误，放弃了一下机会，吃苦让别人强大，你伤害了你自己，<br>回味自己的一生她还经得起回味吗。自己还是经不住诱惑吗。</p>
+<p>发表于 09-01 23:00<br>美丽如玫瑰般刺伤自己，，胜者为王，，少关心别人的生活多关心别人的成就。</p>
+<p>发表于 11-12 01:10<br>在这里，我深刻的悔过，我想知道，我是否开始羡慕赵阳，他其实为你做了一个榜样，不要拿不屑一顾的姿态去结交朋友，其实你每天在干什么大家都知道，我想让你悔改，从新建一个属于自己的网站开始，从基础开始，我们其实差不了太多东西，他只不过比你多了一些流程化的东西，但是那些知识毕竟是你现在所未知的，其实嫉妒也是你进步的源泉，三年来你似乎没有看到前进的方向，但你应该知道每一个步骤都将可能让你崩溃，大学四年相对于高中，我的确感到自己失败了很多，我的高分几乎都是划重点，写原题得来的，而高中不是，我如今的知识框架很虚幻。<br>要努力去学习了。<br>莫要在意别人打眼光<br>再说 自慰 他不应该只是一个流程，不应该只是你寻求刺激的一个方式，以后管住你自己的行为，你感觉学习没有兴趣单纯是如今的学习已经不能给你提供多巴胺，你不在满足于很小的快乐。<br>现在睡觉好好应对明天。</p>
+<p>我们不要在自己的领域中沾沾自喜，懒惰永远是自己的后悔源泉。</p>
+<p>发表于 2020-07-12 23:45<br>为什么得到的不懂珍惜，得不到的却要苦苦追求。<br>佛说，人生有八苦：<br>生、老、病、死、怨憎会、<br>爱别离、求不得、五阴炽盛。<br>大千世界纵有千般痛苦，<br>但欲海不填，难知足常乐。<br>蛮欲缭身，何以解脱？<br>当断，当舍，当离。<br>现代社会中，物欲横流，<br>令人目炫神迷于诱惑之中，<br>能得到的，想要得到更多，<br>得不到的，不择手段的索取。<br>最后到头来，看似拥有一切，<br>实则空无一物。<br>被欲望左右的人<br>常常容易陷入烦恼，<br>生活总是纠结于得失之中<br>而不幸福。<br>断绝一切不需要的物品，<br>是根本幸福生活的开始。<br>不要让自己成为生活的奴隶，<br>我们需要做到的，<br>是重新拿回生活的主导权。<br>往往越轻盈的力量，<br>就越能跳出烦扰的生活状态。<br>舍，就是舍弃与你无缘的人<br>我们行色匆匆，阅人无数，<br>因为社交，<br>而让我们戴上了各种不同的面具。<br>有缘即住无缘去，<br>一任清风送白云。<br>好的情谊自有缘分安排，<br>离不去，拆不散，<br>即使身在远方，也能彼此牵挂。<br>离，就是绝离令人苦恼的执念<br>一花一世界，一叶一菩提，<br>很多时候我们心智迷离，<br>心生烦恼，<br>因为放不下脑中的诸多执念。<br>不懂得顺其自然，<br>所得之后果<br>必定是求不得与放不下。<br>真正的生活智者，<br>能遇善知识，吹却迷妄，<br>内外明彻，断离苦恼执念。<br>无穷妄欲心自在，<br>语默动静以自然。</p>
+]]></content>
+      <tags>
+        <tag>自我救赎</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>政治</title>
+    <url>/2022/11/14/%E6%94%BF%E6%B2%BB/</url>
+    <content><![CDATA[<h1 id="34-马克思主义基本原理"><a href="#34-马克思主义基本原理" class="headerlink" title="34.马克思主义基本原理"></a>34.马克思主义基本原理</h1><h2 id="分析一、马克思主义认识论"><a href="#分析一、马克思主义认识论" class="headerlink" title="分析一、马克思主义认识论"></a>分析一、马克思主义认识论</h2><h3 id="1-如何理解“中国共产党为什么能，中国特色社会主义为什么好，归根到底是马克思-主义行，是中国化时代化的马克思主行。”如何理解“脚踏实地把科技论文写在祖国大-地上”，“把论文写在大地上，真正来地里面写，那才叫真本事。”"><a href="#1-如何理解“中国共产党为什么能，中国特色社会主义为什么好，归根到底是马克思-主义行，是中国化时代化的马克思主行。”如何理解“脚踏实地把科技论文写在祖国大-地上”，“把论文写在大地上，真正来地里面写，那才叫真本事。”" class="headerlink" title="1)如何理解“中国共产党为什么能，中国特色社会主义为什么好，归根到底是马克思 主义行，是中国化时代化的马克思主行。”如何理解“脚踏实地把科技论文写在祖国大 地上”，“把论文写在大地上，真正来地里面写，那才叫真本事。”"></a>1)如何理解“中国共产党为什么能，中国特色社会主义为什么好，归根到底是马克思 主义行，是中国化时代化的马克思主行。”如何理解“脚踏实地把科技论文写在祖国大 地上”，“把论文写在大地上，真正来地里面写，那才叫真本事。”</h3><p>(1)实践是人类能动地改造世界的客观物质性活动。认识是主体在实践基础上对客体 的能动反映。实践决定认识:实践是认识的来源;实践是认识发展的动力;实践是认识的 目的;实践是检验认识真理性的唯一标准。认识对实践具有指导作用。实践与认识的辩证 运动，是一个由感性认识到理性认识，又由理性认识到实践的飞跃，是实践、认识、再实 践、再认识，循环往复以至无穷的辩证发展过程。认识的发展过程，首先是由实践到认识， 这是认识过程中的第一次飞跃。实现认识运动的第一次飞跃，首先要投身实践，深入调查， 获取十分丰富和合乎实际的感性材料。<br>(2)马克思主义、中国化时代化的马克思主义是从实践中来、到实践中去、在实践中 接受检验，并随实践而不断发展的学说。当代中国马克思主义、21 世纪马克思主义源于实 践又指导实践，是中国特色社会主义理论创新与实践创新良性互动的智慧结晶，为新时代坚 持和发展中国特色社会主义、推进党和国家事业提供了基本遵循和行动指南。<br>(3)论文是意识现象，是实践中获得的认识，是从感性认识上升到理性认识的第一次 飞跃。写好论文，必须从实际出发，深入实践，获取感性材料，并运用理论思维和科学抽 象，将感性材料改造制作，才能做到实事求是，获得真理。感性认识有待于发展和深化为 理性认识。感性认识还不能达到对事物的本质和规律的认识，因而还不是完全的认识。<br>用社会存在与社会意识的辩证关系原理作答，言之合理也可得分。</p>
 <h3 id="2-为什么要“开辟马克思主义中国化时代化新境界”-如何理解“要以科学的态度对-待科学、以真理的精神追求真理”。"><a href="#2-为什么要“开辟马克思主义中国化时代化新境界”-如何理解“要以科学的态度对-待科学、以真理的精神追求真理”。" class="headerlink" title="2.为什么要“开辟马克思主义中国化时代化新境界”?如何理解“要以科学的态度对 待科学、以真理的精神追求真理”。"></a>2.为什么要“开辟马克思主义中国化时代化新境界”?如何理解“要以科学的态度对 待科学、以真理的精神追求真理”。</h3><p>(1)真理是对客观事物及其规律的正确反映。真理既具有绝对性，又具有相对性，它 们是同一客观真理的两种属性，这是真理问题上的辩证法。真理的绝对性是指真理主客观 统一的确定性和发展的无限性。真理的相对性是指人们在一定条件下对客观事物及其本质 和发展规律的正确认识总是有限度的、不完善的。真理的绝对性和相对性是辩证统一的， 真理永远处在由相对向绝对的转化和发展中，是从真理的相对性走向绝对性、接近绝对性 的过程。任何真理性的认识都是由真理的相对性向绝对性转化过程中的一个环节，这是真理 发展的规律。<br>马克思主义作为客观真理，是绝对性和相对性的统一。1它正确反映了人类社会的发 展规律，因而具有绝对性。2马克思主义并没有穷尽对一切事物及其规律的认识，仍需要 随着社会实践的发展而发展，因而又具有相对性。3马克思主义真理的绝对性要求我们必 须坚持以马克思主义为指导思想，马克思主义真理的相对性要求我们又必须在实践中丰富 和发展马克思主义。开辟马克思主义中国化时代化新境界，必须坚持以马克思主义为指导 思想。同时，又必须把马克思主义基本原理同中国具体实际相结合，同中华优秀传统文化 相结合，在实践中丰富和发展马克思主义。坚持解放思想和实事求是相统一、培元固本和 守正创新相统一，不断开辟马克思主义中国化时代化新境界。马克思主义是不断发展的开放 的理论，具有与时俱进的理论品质。马克思主义中国化理论成果，鲜明地体现了马克思主义 创新发展的品格。<br>(2)认识的本质是主体在实践基础上对客体的能动反映。主体对客体的反映是一个能 动的创造性的过程。认识过程的反复性是指，人们对于一个复杂事物的认识往往要经过由 感性认识到理性认识、再由理性认识到实践的多次反复才能完成。真理和谬误既对立又统 一。真理与谬误的对立又是相对的，它们在一定条件下能够相互转化。真理总是同谬误相比较而存在、相斗争而发展的。所谓科学的态度、真理的精神就是从实际出发，从事实出发， 实事求是的态度、精神。只有以科学的态度对待科学、以真理的精神追求真理，才能获得 科学、掌握真理。我们要以科学的态度对待科学、以真理的精神追求真理，不断赋予马克 思主义以新的时代内涵。</p>
 <h3 id="3-用真理尺度与价值尺度的辩证统一关系说明“青蒿素是人类征服疟疾进程中的一小-步，也是中国传统医药献给人类的一份礼物”-袁隆平创建了超级杂交稻技术体系，为中国-粮食安全、农业科学发展和世界粮食供给作出杰出贡献-。"><a href="#3-用真理尺度与价值尺度的辩证统一关系说明“青蒿素是人类征服疟疾进程中的一小-步，也是中国传统医药献给人类的一份礼物”-袁隆平创建了超级杂交稻技术体系，为中国-粮食安全、农业科学发展和世界粮食供给作出杰出贡献-。" class="headerlink" title="3.用真理尺度与价值尺度的辩证统一关系说明“青蒿素是人类征服疟疾进程中的一小 步，也是中国传统医药献给人类的一份礼物”(袁隆平创建了超级杂交稻技术体系，为中国 粮食安全、农业科学发展和世界粮食供给作出杰出贡献)。"></a>3.用真理尺度与价值尺度的辩证统一关系说明“青蒿素是人类征服疟疾进程中的一小 步，也是中国传统医药献给人类的一份礼物”(袁隆平创建了超级杂交稻技术体系，为中国 粮食安全、农业科学发展和世界粮食供给作出杰出贡献)。</h3><p>真理是人们对于客观事物及其规律的正确反映。价值是指在实践基础上形成的主体和 客体之间的意义关系。人们的实践活动总是受着真理尺度和价值尺度的制约。实践的真理 尺度是指在实践中人们须遵循正确反映客观事物本质和规律的真理。实践的价值尺度是指 在实践中人们都是按照自己的尺度和需要去认识世界和改造世界。任何实践活动都是在这 两种尺度的共同制约下进行的，任何成功的实践都是真理尺度和价值尺度的统一。一方面， 价值尺度必须以真理为前提。另一方而，人类自身需要的内在尺度，推动着人们不断发现 新的真理。<br>屠呦呦采用科学的实验方法探寻疟疾的新疗法，经过反复实践获得了治疗疟疾的正确 认识，符合真理尺度;青蒿素也是“中国传统医药献给人类的一份礼物”，它拯救了成千 上万疟疾患者的生命，对个人、群体乃至整个社会的生活和活动具有积极意义，符合价值 尺度。只有反复实践才能发现真理，推动认识的发展。<br>注意:新时代中国特色社会主义的伟大实践，充分体现了真理尺度与价值尺度的辩证 统一。正如习近平所指出的:“中国共产党人的理想信念，建立在马克思主义科学真理的基 础之上，建立在马克思主义揭示的人类社会发展规律的基础之上，建立在为最广大人民谋利 益的崇高价值的基础之上。我们坚定，是因为我们追求的是真理。我们坚定，是因为我们遵 循的是规律。我们坚定，是因为我们代表的是最广大人民的根本利益。”</p>
 <h1 id="35，高质量发展与中国式现代化"><a href="#35，高质量发展与中国式现代化" class="headerlink" title="35，高质量发展与中国式现代化"></a>35，高质量发展与中国式现代化</h1><h2 id="例一"><a href="#例一" class="headerlink" title="例一"></a>例一</h2><h3 id="1-如何理解“高质量发展是全面建设社会主义现代化国家的首要任务”-？"><a href="#1-如何理解“高质量发展是全面建设社会主义现代化国家的首要任务”-？" class="headerlink" title="1)如何理解“高质量发展是全面建设社会主义现代化国家的首要任务” ？"></a>1)如何理解“高质量发展是全面建设社会主义现代化国家的首要任务” ？</h3><p>高质量发展，就是能够很好满足人民日益增长的美好生活需要的发展，是体现新发 展理念的发展，是创新成为第一动力、协调成为内生特点、绿色成为普遍形态、开放成为 必由之路、共享成为根本目的的发展。”<font color='CD0000'>习近平在党的二十大报告中指出:“高质量发展是 全面建设社会主义现代化国家的首要任务。</font>&#96;&#96;”这是在深入分析我国新的历史条件和阶段、全 面认识和把握我国现代化建设实践历程以及各国现代化建设一般规律的基础上，作出的一 个具有全局性、长远性和战略性意义的重大判断，进一步凸显了高质量发展的<strong>全局和长远意义</strong>。</p>
@@ -287,128 +71,57 @@
 <h1 id="37继承优良传统，赓续红色血脉，传承延安精神，要在新的赶考之路上交出-新的优异答卷"><a href="#37继承优良传统，赓续红色血脉，传承延安精神，要在新的赶考之路上交出-新的优异答卷" class="headerlink" title="37继承优良传统，赓续红色血脉，传承延安精神，要在新的赶考之路上交出 新的优异答卷"></a>37继承优良传统，赓续红色血脉，传承延安精神，要在新的赶考之路上交出 新的优异答卷</h1><h2 id="例一-1"><a href="#例一-1" class="headerlink" title="例一"></a>例一</h2><h3 id="1-新时代青年为什么要继承优良传统，康续红色血脉-新时代青年为什么要传承红色-基因，赓续红色血脉-新时代青年为什么要赓续党的红色血脉，弘扬党的优良传统"><a href="#1-新时代青年为什么要继承优良传统，康续红色血脉-新时代青年为什么要传承红色-基因，赓续红色血脉-新时代青年为什么要赓续党的红色血脉，弘扬党的优良传统" class="headerlink" title="1.新时代青年为什么要继承优良传统，康续红色血脉?新时代青年为什么要传承红色 基因，赓续红色血脉?新时代青年为什么要赓续党的红色血脉，弘扬党的优良传统?"></a>1.新时代青年为什么要继承优良传统，康续红色血脉?新时代青年为什么要传承红色 基因，赓续红色血脉?新时代青年为什么要赓续党的红色血脉，弘扬党的优良传统?</h3><p>中国革命道德,是指中国共产党人、人民军队、一切先进分子和人民群众在中国革命、 建设、改革中所形成的优秀道德,是马克思主义与中国革命、建设、改革的伟大实践相结合 的产物,是中华民族极其宝贵的道德财富。革命前辈们在艰苦卓绝的革命斗争中培育起来的 革命道德和优良传统,是我们在前进道路上战胜各种困难和风险、不断夺取新胜利的强大精 神力量。中国革命道德内容丰富、历久弥新,是中国共产党领导全体人民实现民族独立、人 民解放的精神支撑,对于我们走好新时代的长征路,实现中华民族伟大复兴仍然具有极其重 要的现实意义:第一，有利于加强和巩固社会主义和共产主义的理想信念，第二，有利于 培育和践行社会主义核心价值观，第三，有利于引导人们树立正确的道德观，第四，有利 于培育良好的社会道德风尚。</p>
 <h3 id="2-新时代青年怎样“把红色基因传承下去，确保红色江山后继有人、代代相传”-新-时代青年如何在不断增强做中国人的志气、骨气、底气，让革命薪火代代相传-新时代青-年应该如何让传承红色基因扎根中国大地"><a href="#2-新时代青年怎样“把红色基因传承下去，确保红色江山后继有人、代代相传”-新-时代青年如何在不断增强做中国人的志气、骨气、底气，让革命薪火代代相传-新时代青-年应该如何让传承红色基因扎根中国大地" class="headerlink" title="2.新时代青年怎样“把红色基因传承下去，确保红色江山后继有人、代代相传”?新 时代青年如何在不断增强做中国人的志气、骨气、底气，让革命薪火代代相传?新时代青 年应该如何让传承红色基因扎根中国大地?"></a>2.新时代青年怎样“把红色基因传承下去，确保红色江山后继有人、代代相传”?新 时代青年如何在不断增强做中国人的志气、骨气、底气，让革命薪火代代相传?新时代青 年应该如何让传承红色基因扎根中国大地?</h3><p>新时代青年要发扬革命道徳、传承红色基因，就要深入了解中国社会和中国革命的历 史，了解中国共产党人带领广大人民群众进行革命斗争的艰苦实践，真正体会中国革命道 德的本质内涵、历史意义和当代价值，自觉同各种歪曲历史、诋毁英雄的历史虚无主义思 潮作斗争，要讲好党的故事、革命的故事、英雄的故事，努力在坚持和发展中国特色社会 主义伟大进程中创造无愧于时代、无愧于人民、无愧于先辈的业绩。<br>新时代青年要深刻认识到红色政权来之不易,新中国来之不易,中国特色社会主义来之 不易。无论现在和将来,都要从革命的历史中汲取智慧和力量,把理想信念的火种一代代传 下去,把红色基因传承好,确保红色江山永不变色。矢志不渝听党话、跟党走是中国青年百 年奋斗的最宝贵经验，深深融入血脉的红色基因是中国青年百年奋斗的最宝贵财富。</p>
 <h3 id="3-如何理解赓续红色血脉、传承奋斗精神，在新的赶考之路上向历史和人民交出新的-优异答卷的坚定信念-或如何使延安精神代代传承下去，以中国式现代化全面推进中华民-族伟大复兴的宏伟蓝图"><a href="#3-如何理解赓续红色血脉、传承奋斗精神，在新的赶考之路上向历史和人民交出新的-优异答卷的坚定信念-或如何使延安精神代代传承下去，以中国式现代化全面推进中华民-族伟大复兴的宏伟蓝图" class="headerlink" title="3.如何理解赓续红色血脉、传承奋斗精神，在新的赶考之路上向历史和人民交出新的 优异答卷的坚定信念?或如何使延安精神代代传承下去，以中国式现代化全面推进中华民 族伟大复兴的宏伟蓝图?"></a>3.如何理解赓续红色血脉、传承奋斗精神，在新的赶考之路上向历史和人民交出新的 优异答卷的坚定信念?或如何使延安精神代代传承下去，以中国式现代化全面推进中华民 族伟大复兴的宏伟蓝图?</h3><p>答案:见史纲部分第一道(12 月 2 日题目)3 内容。 4.如何理解“红旗渠精神同延安精神是一脉相承的”?如何理解“红旗渠精神永在”? 红旗渠精神的内涵是“自力更生、艰苦创业、团结协作、无私奉献”。习近平强调，红<br>旗渠精神同延安精神是一脉相承的，是中华民族不可磨灭的历史记忆，永远震撼人心。年 轻一代要继承和发扬吃苦耐劳、自力更生、艰苦奋斗的精神，摒弃骄娇二气，像我们的父 辈一样把青春热血镌刻在历史的丰碑上。实现第二个百年奋斗目标也就是一两代人的事， 我们正逢其时、不可辜负，要作出我们这一代的贡献。红旗渠精神永在!</p>
-
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-          
-
-<div class="post-copyright">
-<ul>
-  <li class="post-copyright-author">
-      <strong>本文作者： </strong>yuyu
-  </li>
-  <li class="post-copyright-link">
-      <strong>本文链接：</strong>
-      <a href="http://pierhai.github.io/2022/11/14/%E6%94%BF%E6%B2%BB/" title="政治">http://pierhai.github.io/2022/11/14/政治/</a>
-  </li>
-  <li class="post-copyright-license">
-    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
-  </li>
-</ul>
-</div>
-
-
-        
-
-          <div class="post-nav">
-            <div class="post-nav-item">
-            </div>
-            <div class="post-nav-item">
-                <a href="/2022/11/14/40%E5%A4%A9%E8%80%83%E7%A0%94%E6%97%A5%E8%AE%B0/" rel="next" title="40天考研日记">
-                  40天考研日记 <i class="fa fa-chevron-right"></i>
-                </a>
-            </div>
-          </div>
-    </footer>
-  </article>
-</div>
+]]></content>
+  </entry>
+  <entry>
+    <title>修改的图片标题</title>
+    <url>/2022/11/14/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87/</url>
+    <content><![CDATA[<p>剩余功能主要有：</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">实现背景功能</span><br><span class="line">实现多个页面的跳转or 生成多个有效界面</span><br><span class="line">写好没一个自己的经历</span><br></pre></td></tr></table></figure>
 
 
 
 
 
+<p>在&lt;!–more– &gt;前一般写自己文章的简介，在其后写入自己的内容</p>
+<p>这里的图片插入需要使用ctrl  + shift +  i   来插入图片</p>
+<p>使用<span id="more"></span></p>
+<img src="/images/$%7Bfiilename%7D/QQ%E5%9B%BE%E7%89%8720210913081231.png" style="zoom:42%;" />
 
-</div>
-  </main>
+]]></content>
+  </entry>
+  <entry>
+    <title>计组</title>
+    <url>/2022/11/29/%E8%AE%A1%E7%BB%84/</url>
+    <content><![CDATA[<h1 id="实用快捷键"><a href="#实用快捷键" class="headerlink" title="实用快捷键"></a>实用快捷键</h1><figure class="highlight java"><table><tr><td class="code"><pre><span class="line">Ctrl+shift+k  代码块</span><br><span class="line">Ctrl + shift + I ：插入图片</span><br><span class="line">Ctrl + shift + `：插入代码段</span><br><span class="line">ctrl + \  : 消除超链接</span><br><span class="line">字体变色:  &lt;font color=<span class="string">&#x27;BBFFFF&#x27;</span>&gt;&lt;/font&gt;</span><br></pre></td></tr></table></figure>
 
-  <footer class="footer">
-    <div class="footer-inner">
+<p><font color='CD0000'></font></p>
+<h1 id="提高整机速度？"><a href="#提高整机速度？" class="headerlink" title="提高整机速度？"></a>提高整机速度？</h1><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="number">1</span> 针对存储器，可以采用Cache-主存层次的设计和管理提高整机的速度；</span><br><span class="line"><span class="number">2</span> 针对存储器，可以采用主存-辅存层次的设计和管理提高整机的速度；</span><br><span class="line"><span class="number">3</span> 针对控制器，可以通过指令流水或超标量设计技术提高整机的速度；</span><br><span class="line"><span class="number">4</span> 针对控制器，可以通过超标量设计技术提高整机的速度；</span><br><span class="line"><span class="number">5</span>针对运算器，可以对运算方法加以改进，如进位链、两位乘除法；</span><br><span class="line"><span class="number">6</span>针对I/O系统，可以运用DMA技术来减少CPU对外设访问的干预。</span><br></pre></td></tr></table></figure>
 
-
-
-    <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
-    <span id="busuanzi_container_site_pv">总访问量<span id="busuanzi_value_site_pv"></span>次</span>
-    <span class="post-meta-divider">|</span>
-    <span id="busuanzi_container_site_uv">总访客<span id="busuanzi_value_site_uv"></span>人</span>
-    <span class="post-meta-divider">|</span>
-
-
-
-<div class="copyright">
-  &copy; 
-  <span itemprop="copyrightYear">2022</span>
-  <span class="with-love">
-    <i class="fa fa-heart"></i>
-  </span>
-  <span class="author" itemprop="copyrightHolder">yuyu</span>
-</div>
-<div class="wordcount">
-  <span class="post-meta-item">
-    <span class="post-meta-item-icon">
-      <i class="fa fa-chart-line"></i>
-    </span>
-    <span title="站点总字数">15k</span>
-  </span>
-  <span class="post-meta-item">
-    <span class="post-meta-item-icon">
-      <i class="fa fa-coffee"></i>
-    </span>
-    <span title="站点阅读时长">13 分钟</span>
-  </span>
-</div>
-  <div class="powered-by">由 <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
-  </div>
-
-
-    </div>
-  </footer>
-
-  
-  <div class="back-to-top" role="button" aria-label="返回顶部">
-    <i class="fa fa-arrow-up fa-lg"></i>
-    <span>0%</span>
-  </div>
-
-<noscript>
-  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
-</noscript>
-
-
-  
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
-<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.1/search.js" integrity="sha256-1kfA5uHPf65M5cphT2dvymhkuyHPQp5A53EGZOnOLmc=" crossorigin="anonymous"></script>
-<script src="/js/third-party/search/local-search.js"></script>
-
-
-
-
-
-  
-
-
-
-
-
-  <!-- 页面点击小红心 -->
-  <script type="text/javascript" src="/js/src/clicklove.js"></script>
-  
-</body>
-</html>
+<h1 id="指令的第一个cpu周期应完成？？"><a href="#指令的第一个cpu周期应完成？？" class="headerlink" title="指令的第一个cpu周期应完成？？"></a>指令的第一个cpu周期应完成？？</h1><p><strong>1、取指令阶段</strong></p>
+<p>（1）程序计数器PC的内容20（八进制）被装入地址寄存器AR；</p>
+<p>（2）程序计数器PC内容加1，变成21，为取下一条指令做好准备；</p>
+<p>（3）地址寄存器的内容被放到地址总线上；</p>
+<p>（4）所选存储器单元20的内容经过数据总线，传送到数据缓冲寄存器DR；</p>
+<p>（5）缓冲寄存器的内容传送到指令寄存器IR；</p>
+<p>（6）指令寄存器中的操作码被译码或测试；</p>
+<p>（7）CPU识别出是指令CLA，至此，取指令阶段即告结束。</p>
+<p><strong>2、执行指令阶段</strong></p>
+<p>（1）操作控制器送一控制信号给算术逻辑运算单元ALU；</p>
+<p>（2）ALU响应该控制信号，将累加寄存器AC的内容全部清零，从而执行了CLA指令。</p>
+<p>Ctrl + 1 ：一级标题<br> Ctrl + 2 ：二级标题<br> Ctrl + 3 ：三级标题<br> Ctrl + 4 ：四级标题<br> Ctrl + 5 ：五级标题<br> Ctrl + 6 ：六级标题<br> Ctrl + 0 ：段落</p>
+<p>Ctrl + &#x3D; ：提升标题等级<br> Ctrl + - ：降低标题等级<br> Ctrl + Home ：跳转到文首<br> Ctrl + End ：跳转到文末<br> Ctrl + Tab ：应用内窗口切换<br> Ctrl + &#x2F; ：源代码模式<br> Ctrl + \ ：清除样式<br> Ctrl + [ ：减少缩进<br> Ctrl + ] ：增加缩进<br> Ctrl + 逗号 ：偏好设置</p>
+<p>Ctrl + A ：全选<br> Ctrl + B ：加粗<br> Ctrl + C ： 复制<br> Ctrl + D ：选中当前词<br> Ctrl + E ：选中当前格式文本<br> Ctrl + F ：查找<br>   F3 ：查找下一个<br>   shift + F3 ：查找上一个<br> Ctrl + H ：替换<br> Ctrl + I ：斜体<br> Ctrl + J ：跳转到所选内容<br> Ctrl + K ：超链接<br> Ctrl + L ：选中当前行<br> Ctrl + N ：新建文件<br> Ctrl + O ：打开<br> Ctrl + P ：快速打开（快速打开之前编辑过的历史文件）<br> Ctrl + S ：保存<br> Ctrl + T ：插入表格<br> Ctrl + U ：下划线<br> Ctrl + V ：粘贴<br> Ctrl + W ：关闭<br> Ctrl + X ：剪切<br> Ctrl + Y ：重做<br> Ctrl + Z ：撤销</p>
+<p>Ctrl + shift + 1 ：大纲<br> Ctrl + shift + 2 ：文档列表<br> Ctrl + shift + 3 ：文件树<br> Ctrl + shift + 9 ：实际大小</p>
+<p>Ctrl + shift + C ：复制为MarkDown格式<br> Ctrl + shift + D ：删除当前词<br> Ctrl + shift + E ：使用上一次设置导出<br> Ctrl + shift + F ：搜索</p>
+<p> Ctrl + shift + K ：插入代码块<br> Ctrl + shift + L ：显示&#x2F;隐藏侧边栏<br> Ctrl + shift + M ：插入公式<br> Ctrl + shift + N ：新建窗口<br> Ctrl + shift + Q ：引用<br> Ctrl + shift + S ：另存为<br> Ctrl + shift + T ：重新打开关闭的文件<br> Ctrl + shift + V ：粘贴为纯文本格式<br> Ctrl + shift + X ：任务列表</p>
+<p>Ctrl + shift + [ ：有序列表<br> Ctrl + shift + ] ：<a href="https://so.csdn.net/so/search?q=%E6%97%A0%E5%BA%8F%E5%88%97%E8%A1%A8&spm=1001.2101.3001.7020">无序列表</a><br> Ctrl + shift + &#x3D; ：放大<br> Ctrl + shift + - ：缩小<br> Ctrl + shift + &#96; ：代码</p>
+<p>Alt + shift + P ：打印<br> Alt + shift + 5 ：删除线</p>
+<p>Alt + Ctrl + P ：选择段落或块</p>
+<p>Alt + Ctrl + shift + P ：删除块<br> Alt + Ctrl + shift + L ：删除当前行或句<br> Alt + Ctrl + shift + E ：删除当前格式文本</p>
+<p>shift + F10 ：快捷操作弹窗<br> shift + F12 ：开发者工具</p>
+<p>F3 ：查找<br> F8 ：专注模式<br> F9 ：打字机模式<br> F11 ：全屏</p>
+<p>win + 句号 ：表情与符号<br> Home ：跳转到行首<br> End ：跳转到行尾</p>
+]]></content>
+  </entry>
+</search>
